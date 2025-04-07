@@ -8,7 +8,7 @@ title: Video, How Do Your Tokens Merge?
 
 # Video, How Do Your Tokens Merge?
 
-[Sam Pollard](https:/sjpollard.github.io), [Michael Wray](https:/mwray.github.io)
+[Sam Pollard](https://sjpollard.github.io), [Michael Wray](https://mwray.github.io)
 
 University of Bristol
 
