@@ -1,0 +1,29 @@
+{
+  "architectures": [
+    "ViViTForVideoClassification"
+  ],
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu_fast",
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-06,
+  "model_type": "vivit",
+  "num_attention_heads": 12,
+  "num_channels": 3,
+  "num_hidden_layers": 12,
+  "qkv_bias": true,
+  "torch_dtype": "float32",
+  "transformers_version": "4.25.0.dev0",
+  "tubelet_size": [
+    2,
+    16,
+    16
+  ],
+  "video_size": [
+    32,
+    224,
+    224
+  ]
+}
