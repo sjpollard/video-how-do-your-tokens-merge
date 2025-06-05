@@ -12,8 +12,7 @@ title: Video, How Do Your Tokens Merge?
 
 University of Bristol
 
-eLVM@CVPR'25
-
+eLVM@CVPR 2025
 
 ![Intro](assets/intro.png)
 
@@ -26,7 +25,7 @@ eLVM@CVPR'25
 Video transformer models require huge amounts of compute resources due to the spatio-temporal scaling of the input. Tackling this, recent methods have proposed to drop or merge tokens for image models, whether randomly or via learned methods. Merging tokens has many benefits: it can be plugged into any vision transformer, does not require model re-training, and it propagates information that would otherwise be dropped through the model. Before now, video token merging has not been evaluated on temporally complex datasets for video understanding. In this work, we explore training-free token merging for video to provide comprehensive experiments and find best practices across four video transformers on three datasets that exhibit coarse and fine-grained action recognition. Our results showcase the benefits of video token merging with a speedup of around 2.5X while maintaining accuracy (avg. -0.55% for ViViT).
 
 # Links
-[Code](https://github.com/sjpollard/video-how-do-your-tokens-merge) | [Arxiv]()
+[Code](https://github.com/sjpollard/video-how-do-your-tokens-merge) | [arXiv](https://arxiv.org/abs/2506.03885)
 
 # Bibtex
 
