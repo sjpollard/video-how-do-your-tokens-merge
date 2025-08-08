@@ -35,6 +35,7 @@ Video transformer models require huge amounts of compute resources due to the sp
     title     = {Video, How Do Your Tokens Merge?},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
     month     = {June},
-    year      = {2025}
+    year      = {2025},
+    pages     = {3347-3356}
 }
 ```
