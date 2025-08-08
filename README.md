@@ -169,6 +169,7 @@ Our code is based upon the following prior works: [ToMe](https://github.com/face
     title     = {Video, How Do Your Tokens Merge?},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
     month     = {June},
-    year      = {2025}
+    year      = {2025},
+    pages     = {3347-3356}
 }
 ```
