@@ -27,6 +27,10 @@ Video transformer models require huge amounts of compute resources due to the sp
 # Links
 [Code](https://github.com/sjpollard/video-how-do-your-tokens-merge) | [arXiv](https://arxiv.org/abs/2506.03885)
 
+# Acknowledgments
+
+Research supported by EPSRC Doctoral Training Partnerships (DTP). The authors would like to thank Siddhant Bansal, Prajwal Gatti and Toby Perrett for their comments on the paper. The authors acknowledge the use of resources provided by the Isambard-AI National AI Research Resource (AIRR). Isambard-AI is operated by the University of Bristol and is funded by the UK Government’s Department for Science, Innovation and Technology (DSIT) via UK Research and Innovation; and the Science and Technology Facilities Council [ST/AIRR/I-A-I/1023].
+
 # Bibtex
 
 ```
